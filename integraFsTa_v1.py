@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 #importa a biblioteca de conexão
 import cx_Oracle
 
@@ -70,8 +67,11 @@ df.columns = ['num_os_philips', 'num_os_interno','nr_seq_historico','usuario','p
 #DROPA OS AUSENTES DA COLUNA PROJETO
 df.dropna(subset=['projeto'], inplace=True)
 #df.dropna(subset=['projeto'], inplace=True)
+
+#VISUALIZA DF 
 df
 
+#VALIDA SE É DF
 type(df)
 
 
