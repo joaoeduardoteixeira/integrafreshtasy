@@ -86,7 +86,7 @@ df['projeto']
 df.shape
 
 
-# Explicação do porquê não vejo como melhor estratégia inserir dentro do loop
+# Explicação do porquê não vejo (nesse caso) como melhor estratégia inserir dentro do loop
 # 
 # Loop 1 - 
 # 	
@@ -166,7 +166,4 @@ for index, row in dfFiltrado.iterrows():
 connection.commit()
 
 
-# ## CÓDIGO TERMINA AQUI
-# 
-# Resum: Está funcionado. Necessita tratar o decorrer do script para quando não haja nenhum registro novo, o script não parar.
-# Tratar erros. 
+
