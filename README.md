@@ -6,6 +6,9 @@
 
 ## Impacto: Manter atualizado o analista sobre atividades na OS, evitando encerramentos não esperados e dando como benefício o aumentando no tempo de resposta.
 
+## Criador:
+João Eduardo da Silva Teixeira
+
 ## Contato:
 - E-mail: joaoeduardosteixeira@gmail.com
 - Skype: analista.eduardo@hotmail.com
